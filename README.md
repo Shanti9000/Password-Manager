@@ -1,2 +1,2 @@
 # Password-Manager
-Created a simple Python Password Manager that is able to create a password as well as encrypt the password for you.
+A simple yet secure password manager built in Python using the cryptography library's Fernet symmetric encryption. This tool allows you to securely store and retrieve passwords for different websites/services.
